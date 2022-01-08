@@ -1,2 +1,2 @@
-# OpenclassroomsProject
-Autor : Labeyrie Louis, Alix Leteinturier 
+# OpenclassroomsProject for learn
+Credit : Labeyrie Louis, Alix Leteinturier 
